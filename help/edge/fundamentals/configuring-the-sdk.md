@@ -47,7 +47,7 @@ Indicates which context categories to collect automatically as described in [Aut
 
 Indicates whether debugging should be enabled. Setting this config to `true` enables the following features:
 
-| **Feature**            |                    |                                                                                                                            |
+| **Feature**            |                    |                                                                                                                            
 | ---------------------- | ------------------ |
 | Synchronous validation | Validates the data being collected against the schema and returns an error in the response under the following label: `collect:error OR success` |
 | Console logging        | Enables debugging messages to be displayed in the browser's JavaScript console                                                                  |
